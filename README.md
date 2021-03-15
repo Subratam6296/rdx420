@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rdx420
-- 👀 I’m interested in Android Development
+- 👀 I’m interested in CustomRom Development
 - 🌱 I’m currently learning python,c,java
 - 💞️ I’m looking to collaborate on Open source project
 - 📫 How to reach me padraramesh420@gmail.com
